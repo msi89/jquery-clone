@@ -1,0 +1,10 @@
+{
+  "name": "jquery-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Msic <claver.developer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
